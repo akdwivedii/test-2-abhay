@@ -1,9 +1,1 @@
-DATADOG_API_KEY=00000000000000000000000000wizfx
-CLOUDFLARE_API_TOKEN=WizFixtureFakeCloudflareToken00000000000
-SERVICE_JWT=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJ3aXpmaXh0dXJlIn0.WizFixtureFakeSignatureDoNotUse
-AWS_ACCESS_KEY_ID=AKIAWIZSETEFAKEKEY01
-AWS_SECRET_ACCESS_KEY=wizSetEFakeSecretAccessKeyDoNotUse4567890
-MONGODB_URI=mongodb+srv://svc_admin:WizFixtureMongoPass123!@cluster0.wizfixture.mongodb.net/appdb
-PGP_PRIVATE_KEY="-----BEGIN PGP PRIVATE KEY BLOCK-----\nlQOYBFwizFixtureOnlyFakeKeyDoNotUseForAnyRealPurposeAAAAAAAAAAAA\
-n-----END PGP PRIVATE KEY BLOCK-----"
-github_token = "ghp_0aFU7xM9LSy3750sl1is4OMstNKN7l2G0eTe"
+Remmoved 
